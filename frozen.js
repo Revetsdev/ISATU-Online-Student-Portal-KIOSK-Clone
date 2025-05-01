@@ -39,9 +39,9 @@ if (username === "2023-1819-B" && password == "PACLIBAR-18190") {
     window.location.href = "locked.html";
 }
 
-if (username === "2023-2825-B" && password == "PANES-2825") {
+if (username === "user" && password == "user") {
     // Redirect to another page (e.g., dashboard.html)
-    window.location.href = "2825.html";
+    window.location.href = "user.html";
 }
 
 if (username === "2023-2828-B" && password == "PEREZ-2828") {
