@@ -39,7 +39,7 @@ if (username === "2023-1819-B" && password == "PACLIBAR-18190") {
     window.location.href = "locked.html";
 }
 
-if (username === "user" && password == "user") {
+if (username === "user" && password == "user123") {
     // Redirect to another page (e.g., dashboard.html)
     window.location.href = "user.html";
 }
